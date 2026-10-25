@@ -1,0 +1,7 @@
+model,question,target,n,mean_output_tokens,std_output_tokens,mean_elapsed_seconds,std_elapsed_seconds
+gemini-3.5-flash-lite,knowledge,100,1,111.0,nan,1.3264,nan
+gemini-3.5-flash-lite,knowledge,300,1,291.0,nan,1.8324,nan
+gemini-3.5-flash-lite,knowledge,500,1,520.0,nan,2.5552,nan
+gemini-3.5-flash-lite,reasoning,100,1,412.0,nan,1.7845,nan
+gemini-3.5-flash-lite,reasoning,300,1,594.0,nan,1.9832,nan
+gemini-3.5-flash-lite,reasoning,500,1,872.0,nan,2.7471,nan

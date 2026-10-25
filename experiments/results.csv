@@ -1,0 +1,7 @@
+model,question,target,trial,timestamp,elapsed,input_tokens,output_tokens,thinking_tokens,total_tokens,status,error_code,response_file
+gemini-3.5-flash-lite,reasoning,100,1,2026-10-25T20:46:02.722900+00:00,1.7845,118,412,,530,success,,responses/gemini-3.5-flash-lite_reasoning_100_1.txt
+gemini-3.5-flash-lite,knowledge,300,1,2026-10-25T20:46:19.508275+00:00,1.8324,59,291,,350,success,,responses/gemini-3.5-flash-lite_knowledge_300_1.txt
+gemini-3.5-flash-lite,knowledge,500,1,2026-10-25T20:46:36.341446+00:00,2.5552,59,520,,579,success,,responses/gemini-3.5-flash-lite_knowledge_500_1.txt
+gemini-3.5-flash-lite,reasoning,300,1,2026-10-25T20:46:53.897369+00:00,1.9832,118,594,,712,success,,responses/gemini-3.5-flash-lite_reasoning_300_1.txt
+gemini-3.5-flash-lite,knowledge,100,1,2026-10-25T20:47:10.881267+00:00,1.3264,59,111,,170,success,,responses/gemini-3.5-flash-lite_knowledge_100_1.txt
+gemini-3.5-flash-lite,reasoning,500,1,2026-10-25T20:47:27.208378+00:00,2.7471,118,872,,990,success,,responses/gemini-3.5-flash-lite_reasoning_500_1.txt
