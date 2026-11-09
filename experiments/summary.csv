@@ -1,0 +1,13 @@
+model,question,target,n,mean_output_tokens,std_output_tokens,mean_elapsed_seconds,std_elapsed_seconds
+gemini-3.5-flash-lite,knowledge,100,5,113.4,11.261,1.5752,0.7291
+gemini-3.5-flash-lite,knowledge,300,5,282.8,42.435,1.9322,0.095
+gemini-3.5-flash-lite,knowledge,500,5,539.4,40.79,2.5465,0.2467
+gemini-3.5-flash-lite,reasoning,100,5,318.8,77.406,1.5753,0.2005
+gemini-3.5-flash-lite,reasoning,300,5,607.2,133.048,2.2574,0.3889
+gemini-3.5-flash-lite,reasoning,500,5,1037.2,183.037,3.0418,0.2896
+gemini-3.6-flash,knowledge,100,2,72.5,0.707,4.9158,0.0944
+gemini-3.6-flash,knowledge,300,2,243.0,31.113,8.4941,0.5253
+gemini-3.6-flash,knowledge,500,2,416.5,20.506,34.0897,33.2745
+gemini-3.6-flash,reasoning,100,2,118.0,7.071,9.7111,1.2688
+gemini-3.6-flash,reasoning,300,2,286.0,62.225,10.7757,1.6453
+gemini-3.6-flash,reasoning,500,2,459.5,60.104,12.5111,0.9061
